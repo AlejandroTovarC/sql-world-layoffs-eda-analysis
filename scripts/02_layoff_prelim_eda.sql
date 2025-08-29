@@ -3,8 +3,7 @@
   Exploratory Data Analysis — world_layoffs.layoffs_staging2
 =============================================================
 Script Purpose:
-
-
+- Begin general EDA to find trends to further explore in later scripts.
 
 */
 
