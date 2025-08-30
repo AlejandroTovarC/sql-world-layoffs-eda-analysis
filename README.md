@@ -40,7 +40,7 @@ The dataset spans from March 2020 to March 2023, covering the full economic cycl
 
 The analysis reveals distinct seasonal, industry, and geographic risk patterns that enable data-driven strategic positioning. January emerges as the highest-risk month for layoffs (92,000+ events), while Consumer and Technology sectors show the greatest workforce volatility. The United States dominates layoff activity with 260,000+ total impacts, though geographic diversification opportunities exist in stable markets. Post-IPO and Seed-stage companies demonstrate poor funding efficiency, with layoffs-per-million-funded ratios significantly exceeding later-stage companies. These patterns provide actionable intelligence for workforce planning, market entry timing, and investment risk assessment.
 
-![Final Table](/images/table-strucutre.png)
+![Final Table](/images/table-structure.png)
 
 ## Strategic Insights Deep Dive
 
