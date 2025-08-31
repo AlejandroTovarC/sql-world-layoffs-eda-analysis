@@ -16,6 +16,9 @@ Insights and recommendations are provided on the following key strategic areas:
 
 The SQL scripts for comprehensive layoff intelligence analysis can be found in the `/scripts/` directory.
 
+## Project Acknowledgment
+
+This project was inspired by and builds upon the foundational work from [Alex The Analyst's](https://www.youtube.com/watch?v=QYd-RtK58VQ) YouTube tutorial on layoffs data analysis. The initial exploratory data analysis and data cleaning procedures were adapted from their educational content. The strategic business framework, advanced analytical techniques, and comprehensive cross-dimensional analysis represent significant extensions and original contributions to transform the tutorial foundation into a complete strategic intelligence system.
 ## Data Structure & Initial Checks
 
 The layoffs database consists of a single comprehensive table with 2,361 records after data cleaning, containing layoff events across 35 months of market activity. The cleaned dataset structure is as follows:
