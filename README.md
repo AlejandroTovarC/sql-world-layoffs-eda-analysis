@@ -36,25 +36,25 @@ The analysis reveals distinct seasonal, industry, and geographic risk patterns t
 
 ## Strategic Insights Deep Dive
 
-**Market Recovery Timeline Intelligence:**
+**Market Recovery Timeline Intelligence:** [Analysis →](scripts/03_01_market_recovery_timeline.sql)
 
 - **Seasonal Risk Patterns**: January shows 92,037 layoffs (highest monthly total), establishing clear budget cycle risk windows. November and December also present elevated risk periods, while mid-quarter months show more stability for strategic initiatives.
 - **Crisis Phase Classification**: Market phases span from Crisis (100K+ monthly layoffs) through Recovery periods, with 35-month analysis revealing distinct volatility patterns that inform long-term planning cycles.
 - **Strategic Timing Framework**: Three-month rolling averages smooth market volatility to reveal true directional trends, enabling executives to time major initiatives during stable periods rather than reactive phases.
 
-**Industry Resilience Assessment:**
+**Industry Resilience Assessment:** [Analysis →](scripts/03_02_industry_resilience_ranking.sql)
 
 - **High-Risk Sectors**: Consumer (45,182 total layoffs) and Retail (43,613) industries show sustained workforce volatility across multiple years, indicating structural market challenges requiring enhanced risk management.
 - **Duration Patterns**: Retail demonstrates the longest layoff activity period (22 months), while Sales sector shows briefer but intense impact windows (12 months), revealing different strategic approaches to workforce management.
 - **Efficiency Indicators**: Industries with controlled average layoff sizes suggest more measured workforce adjustments versus panic-driven mass reductions, providing partnership and investment guidance.
 
-**Geographic Risk Distribution:**
+**Geographic Risk Distribution:** [Analysis →](scripts/03_03_geographic_risk_assessment.sql)
 
 - **Market Concentration**: United States accounts for 260,000+ layoffs with persistent instability patterns, while international markets show varied risk profiles suitable for diversification strategies.
 - **Activity Concentration Analysis**: High-activity markets demonstrate broad sector impact (10+ industries affected), while limited-activity markets suggest either stability or data coverage limitations requiring individual assessment.
 - **Expansion Intelligence**: Geographic risk classification enables market entry prioritization, balancing growth opportunities against workforce stability requirements.
 
-**Investment & Partnership Risk Patterns:**
+**Investment & Partnership Risk Patterns:** [Analysis →](scripts/03_04_company_stage_insights.sql)
 
 - **Funding Efficiency Analysis**: Post-IPO companies show 57.35 layoffs per million funded (worst efficiency), while Series D-J companies demonstrate superior capital utilization with ratios under 1.0.
 - **Stage Risk Assessment**: Seed-stage companies present 18.23 layoffs per million funded, indicating early-stage over-hiring patterns that create downstream workforce corrections.
