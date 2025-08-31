@@ -24,18 +24,6 @@ This project was inspired by and builds upon the foundational work from [Alex Th
 The layoffs database consists of a single comprehensive table with 2,361 records after data cleaning, containing layoff events across 35 months of market activity. The cleaned dataset structure is as follows:
 
 **layoffs_staging2 (Final Analysis Table):**
-
-- **company**: Organization name (TEXT)
-- **location**: City/region location (TEXT)
-- **industry**: Business sector classification (TEXT)
-- **total_laid_off**: Number of employees affected (INT)
-- **percentage_laid_off**: Percentage of workforce reduced (TEXT)
-- **date**: Event date (DATE - converted from TEXT)
-- **stage**: Company maturity level (TEXT)
-- **country**: Geographic location (TEXT)
-- **funds_raised_millions**: Total funding raised (INT)
-
-
 ![Final Table](/images/table-structure.png)
 
 The dataset spans from March 2020 to March 2023, covering the full economic cycle from pandemic onset through recovery phases. Data quality assessment revealed 100% completeness for core analytical fields after cleaning procedures removed duplicates and standardized formatting.
